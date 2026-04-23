@@ -2,5 +2,5 @@
 This folder have data collections codes...
 
 Collectionn = lists, sets , tuples and dictionaries...
-
+Functions , argumnets and their types
 Also have quize games etc
