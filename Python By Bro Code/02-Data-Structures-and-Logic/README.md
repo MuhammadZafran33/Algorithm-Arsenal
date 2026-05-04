@@ -6,4 +6,5 @@ Collectionn = lists, sets , tuples and dictionaries...
 Functions , argumnets and their types.......
 Also have quize games etc
 
-this folder is almost complete
+this folder is almost complete.
+few projects remaining.
