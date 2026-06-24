@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=Data%20Structures%20%26%20Logic&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20By%20Bro%20Code%20%7C%20Module%2002&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6e40c9,50:a855f7,100:06b6d4&amp;height=200&amp;section=header&amp;text=Data%20Structures%20%26%20Logic&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Python%20By%20Bro%20Code%20%7C%20Module%2002&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
 <!-- BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Module-02-6e40c9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Course-Bro%20Code-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Course-Bro%20Code-FF6B6B?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Topics-8%20Core-f59e0b?style=for-the-badge"/>
 </p>
