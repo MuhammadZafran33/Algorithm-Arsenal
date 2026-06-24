@@ -632,7 +632,23 @@ flowchart TD
     style H fill:#ef4444,color:#fff
 ```
 ```mermaid
+flowchart TD
+    A["🤔 Need a collection?"] --> B{Ordered?}
+    B -->|Yes| C{Mutable?}
+    B -->|No| D{Unique only?}
+    C -->|Yes| E["🗂️ List\nmy_list = []"]
+    C -->|No| F["📦 Tuple\nmy_tuple = ()"]
+    D -->|Yes| G["🔷 Set\nmy_set = set()"]
+    D -->|No - Key/Value| H["📖 Dictionary\nmy_dict = {}"]
+    E --> I{Fast lookup?}
+    I -->|Yes - Use index| E
+    I -->|No - Use keys| H
 
+    style A fill:#6e40c9,color:#fff
+    style E fill:#3b82f6,color:#fff
+    style F fill:#10b981,color:#fff
+    style G fill:#f59e0b,color:#fff
+    style H fill:#ef4444,color:#fff
 ```
 ---
 
