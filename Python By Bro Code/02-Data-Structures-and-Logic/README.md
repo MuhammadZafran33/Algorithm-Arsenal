@@ -24,6 +24,7 @@
 </p>
 
 <br/>
+</div>
 
 > **🧠 "Data structures are the backbone of every algorithm. Master them once — wield them forever."**
 
