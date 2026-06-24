@@ -149,6 +149,7 @@ mindmap
         filter()
         reduce()
 ```
+
 ```mermaid
 mindmap
   root(("Python DS & Logic"))
@@ -157,14 +158,14 @@ mindmap
         Mutable
         Ordered
         Duplicates Allowed
-        "Methods: append pop sort"
+        m1["Methods: append pop sort"]
       Tuple
         Immutable
         Ordered
-        "Packing & Unpacking"
+        m2["Packing & Unpacking"]
       String
         Slicing
-        "Methods: split join strip"
+        m3["Methods: split join strip"]
     Collections
       Set
         Unordered
@@ -178,15 +179,15 @@ mindmap
       Boolean Operators
         and / or / not
       Comparison
-        "== != > < >= <="
+        c1["== != > < >= <="]
       Conditionals
-        if / elif / else
+        cond1["if / elif / else"]
         Ternary Expression
     Iteration
       for loop
-        "range() iteration"
-        "enumerate()"
-        "zip()"
+        i1["range() iteration"]
+        i2["enumerate()"]
+        i3["zip()"]
       while loop
         break / continue
         Nested Loops
@@ -198,10 +199,11 @@ mindmap
         Generator Expr
       Higher-Order
         lambda
-        "map()"
-        "filter()"
-        "reduce()"
+        h1["map()"]
+        h2["filter()"]
+        h3["reduce()"]
 ```
+
 ---
 
 ## 📁 File Index
