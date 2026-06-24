@@ -724,7 +724,7 @@ After completing this module you should be able to:
 | 🏫 **University** | Institute of Management Sciences (IM\|Sciences), Peshawar |
 | 🔬 **Research** | KP-DengueAI — LightGBM Dengue Severity Classification |
 | 🤝 **Supervisor** | Lect. Ali Haider |
-| 👥 **Co-author** | Hilal Ahmad Khan |
+| 👥 **Author** | Muhammad Zafran |
 | 🏅 **Certification** | NAVTTC AI — CS Technologies Peshawar |
 | 📍 **Location** | Peshawar, Khyber Pakhtunkhwa, Pakistan |
 
