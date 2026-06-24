@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6e40c9,50:a855f7,100:06b6d4&amp;height=200&amp;section=header&amp;text=Data%20Structures%20%26%20Logic&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Python%20By%20Bro%20Code%20%7C%20Module%2002&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
+<!-- Fixed: Changed %26 (&) to 'and' in the text parameter so the SVG doesn't break -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6e40c9,50:a855f7,100:06b6d4&amp;height=200&amp;section=header&amp;text=Data%20Structures%20and%20Logic&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Python%20By%20Bro%20Code%20%7C%20Module%2002&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
 <!-- BADGES -->
 <p>
