@@ -96,59 +96,6 @@ This module is **Section 02** of the *Python By Bro Code* learning path — the 
 
 ## 🧭 Data Structures Mind Map
 
-```mermaid
-mindmap
-  root((Python DS &amp; Logic))
-    Sequences
-      List
-        Mutable
-        Ordered
-        Duplicates Allowed
-        Methods: append pop sort
-      Tuple
-        Immutable
-        Ordered
-        Packing & Unpacking
-      String
-        Slicing
-        Methods: split join strip
-    Collections
-      Set
-        Unordered
-        No Duplicates
-        Union Intersection Diff
-      Dict
-        Key-Value Pairs
-        Hash Map Internally
-        Nested Dicts
-    Logic
-      Boolean Operators
-        and / or / not
-      Comparison
-        == != > < >= <=
-      Conditionals
-        if / elif / else
-        Ternary Expression
-    Iteration
-      for loop
-        range() iteration
-        enumerate()
-        zip()
-      while loop
-        break / continue
-        Nested Loops
-    Functional
-      Comprehensions
-        List Comp
-        Dict Comp
-        Set Comp
-        Generator Expr
-      Higher-Order
-        lambda
-        map()
-        filter()
-        reduce()
-```
 
 ```mermaid
 mindmap
