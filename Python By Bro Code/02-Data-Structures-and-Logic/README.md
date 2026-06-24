@@ -1,13 +1,1 @@
- ### This is the data structures folder
-This folder have data collections codes...
 
-Collectionn = lists, sets , tuples and dictionaries...
-
-Functions , argumnets and their types.......
-Also have quize games etc
-
-this folder is almost complete.
-
-few projects remaining.
-
-INSHALLAH complete soon.
