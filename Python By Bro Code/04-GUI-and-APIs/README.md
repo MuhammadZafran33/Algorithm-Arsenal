@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF512F,100:F09819&amp;height=200&amp;section=header&amp;text=GUIs%20%26%20APIs&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Module%2004%20%E2%80%94%20Bro%20Code%20Full%20Python%20Course&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF512F,100:F09819&amp;height=200&amp;section=header&amp;text=GUIs%20and%20APIs&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Module%2004%20%E2%80%94%20Bro%20Code%20Full%20Python%20Course&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=F09819&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=14+Notebooks+%7C+PyQt5+Desktop+Apps+%F0%9F%96%A5%EF%B8%8F;Threads+%E2%80%A2+REST+APIs+%E2%80%A2+Live+Weather+%E2%98%80%EF%B8%8F;3+Real+Desktop+Apps+Built+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 
