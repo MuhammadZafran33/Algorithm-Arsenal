@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=200&section=header&text=GUIs%20%26%20APIs&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Module%2004%20%E2%80%94%20Bro%20Code%20Full%20Python%20Course&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3776AB,100:FFD43B&amp;height=200&amp;section=header&amp;text=Python%20Fundamentals&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Module%2001%20%E2%80%94%20Bro%20Code%20Full%20Python%20Course&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F09819&center=true&vCenter=true&width=650&lines=14+Notebooks+%7C+PyQt5+Desktop+Apps+%F0%9F%96%A5%EF%B8%8F;Threads+%E2%80%A2+REST+APIs+%E2%80%A2+Live+Weather+%E2%98%80%EF%B8%8F;3+Real+Desktop+Apps+Built+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=3776AB&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=14+Notebooks+%7C+4+Mini-Projects+%F0%9F%90%8D;print()+to+Nested+Loops+%E2%9E%A1%EF%B8%8F;The+struggle+is+continuous...+%F0%9F%92%AA" alt="Typing SVG" />
 
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![PyQt5](https://img.shields.io/badge/PyQt5-GUI%20Toolkit-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://pypi.org/project/PyQt5/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Course](https://img.shields.io/badge/Course-Bro%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BroCodez)
 [![Status](https://img.shields.io/badge/Module-Complete-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
@@ -23,10 +23,9 @@
 
 - [About This Module](#-about-this-module)
 - [Topic Coverage](#-topic-coverage)
-- [Difficulty Curve](#-difficulty-curve)
 - [Notebook-by-Notebook Roadmap](#️-notebook-by-notebook-roadmap)
 - [Complete Notebook Index](#-complete-notebook-index)
-- [Featured Projects](#-featured-projects)
+- [Featured Mini-Projects](#-featured-mini-projects)
 - [Concept Snapshots](#-concept-snapshots)
 - [Repository Map](#️-repository-map)
 - [Quick Start](#-quick-start)
@@ -35,18 +34,18 @@
 
 ---
 
-## 🖥️ About This Module
+## 🐍 About This Module
 
-**`04-GUI-and-APIs`** is Module 04 — the **final module** of the Bro Code Python course in this repo — and the point where everything stops living in a terminal.
+**`01-Python-Fundamentals`** is the first module of my [**Algorithm Arsenal**](https://github.com/MuhammadZafran33/Algorithm-Arsenal) repository — a hands-on rebuild of the **Bro Code Python Full Course**, done entirely in Jupyter Notebooks, one concept at a time.
 
-This module leaves plain `print()` output behind: **concurrency** with `threading`, **live data** from real REST APIs, and full **desktop GUI apps** built with PyQt5. It closes with three working applications instead of isolated snippets.
+Every notebook here was typed out, run, and debugged by hand — no copy-pasting. It's the raw syntax foundation everything after it (data structures, OOP, GUIs, and eventually ML/DL) is built on top of.
 
 <table>
 <tr>
 <td align="center"><b>📓 Notebooks</b><br/>14</td>
-<td align="center"><b>🖥️ Desktop Apps Built</b><br/>3</td>
-<td align="center"><b>🌐 Live API Used</b><br/>Open-Meteo (no key)</td>
-<td align="center"><b>📦 New Dependencies</b><br/><code>PyQt5</code>, <code>requests</code></td>
+<td align="center"><b>🛠️ Mini-Projects</b><br/>4</td>
+<td align="center"><b>📦 Dependencies</b><br/>0 (stdlib only)</td>
+<td align="center"><b>🎯 Format</b><br/>Jupyter (.ipynb)</td>
 </tr>
 </table>
 
@@ -56,22 +55,12 @@ This module leaves plain `print()` output behind: **concurrency** with `threadin
 
 ```mermaid
 pie title Concepts Covered Across 14 Notebooks
-    "Concurrency & REST APIs" : 2
-    "PyQt5 Widgets & Layouts" : 9
-    "Applied Desktop Apps" : 3
-```
-
----
-
-## 📈 Difficulty Curve
-
-```mermaid
-xychart-beta
-    title "Notebooks by Conceptual Depth"
-    x-axis ["Foundations", "Core Widgets", "Interactive Widgets", "Applied Apps"]
-    y-axis "Number of Notebooks" 0 --> 6
-    bar [2, 4, 5, 3]
-    line [2, 4, 5, 3]
+    "Core Basics & I/O" : 2
+    "Math & Arithmetic" : 1
+    "Conditionals & Logic" : 2
+    "Strings & Formatting" : 2
+    "Loops & Iteration" : 3
+    "Mini-Projects" : 4
 ```
 
 ---
@@ -80,29 +69,30 @@ xychart-beta
 
 ```mermaid
 flowchart TD
-    A["🧵 01 — Multithreading: threading.Thread"] --> B["🔗 02 — Consuming a REST API (PokeAPI)"]
-    B --> C["🖥️ 03 — PyQt5 Intro: QApplication, QMainWindow"]
-    C --> D["🏷️ 04 — QLabel & QFont"]
-    D --> E["📷 05 — Displaying Images: QPixmap"]
-    E --> F["🧲 06 — Layout Managers: Grid / V / H Box"]
-    F --> G["🛎️ 07 — Buttons: QPushButton + state toggling"]
-    G --> H["✅ 08 — Checkboxes: QCheckBox"]
-    H --> I["🔘 09 — Radio Buttons: QButtonGroup"]
-    I --> J["💬 10 — Line Edits: QLineEdit forms"]
-    J --> K["🎨 11 — Custom Styling: setStyleSheet()"]
-    K --> L["🕒 ⭐ Digital Clock — QTimer + custom font"]
-    L --> M["⏱️ ⭐ Stopwatch — start/stop/reset"]
-    M --> N["☀️ ⭐ Weather App — live API + QThread"]
-    N --> O(["🚀 Course Complete → Internship / ML / DL"])
+    A["🖨️ 01 — print() • variables • f-strings • type casting"] --> B["⌨️ 02 — input() • rectangle area"]
+    B --> C["➗ 03 — arithmetic ops • math module • circle/hypotenuse"]
+    C --> D["🔀 04 — if / else statements"]
+    D --> E["🧮 05 — Calculator + Weight + Temp Converter"]
+    E --> F["🔗 06 — logical operators (and / or)"]
+    F --> G["🔍 07 — string indexing & methods"]
+    G --> H["🎨 08 — format specifiers"]
+    H --> I["🔁 09 — while loops"]
+    I --> J["💰 10 — Compound Interest Calculator"]
+    J --> K["🔂 11 — for loops • range() • break/continue"]
+    K --> L["⏱️ 12 — Countdown Timer Program"]
+    L --> M["🎭 13 — Madlib Game"]
+    M --> N["🪆 14 — nested loops • pattern printing"]
+    N --> O(["🚀 Module 02: Data Structures & Logic"])
 
-    style A fill:#FF512F,color:#fff
+    style A fill:#3776AB,color:#fff
     style O fill:#00C851,color:#fff
-    style L fill:#F09819,color:#fff
-    style M fill:#F09819,color:#fff
-    style N fill:#F09819,color:#fff
+    style E fill:#FF9F40,color:#fff
+    style J fill:#FF9F40,color:#fff
+    style L fill:#FF9F40,color:#fff
+    style M fill:#FF9F40,color:#fff
 ```
 
-> 🟠 The last three notebooks are full applications, not exercises — each one runs as a standalone desktop window.
+> 🟠 Orange nodes are the four **applied mini-projects** built along the way.
 
 ---
 
@@ -110,187 +100,156 @@ flowchart TD
 
 | # | 📓 Notebook | 🎯 What It Covers |
 |---|---|---|
-| 01 | [`01_multithreading 🧵in python.ipynb`](<01_multithreading 🧵in python.ipynb>) | `threading.Thread` for concurrent, I/O-bound tasks — chores running in parallel instead of sequentially |
-| 02 | [`02_request API data ↩️in python.ipynb`](<02_request API data ↩️in python.ipynb>) | The `requests` library — `GET` calls, status codes, JSON parsing, against the public **PokeAPI** |
-| 03 | [`03_PyQt5 GUI intro 🖥️ in python.ipynb`](<03_PyQt5 GUI intro 🖥️ in python.ipynb>) | `QApplication` / `QMainWindow`, window title, geometry, and icon customization |
-| 04 | [`04_PyQt5 labels 🏷️ in python.ipynb`](<04_PyQt5 labels 🏷️ in python.ipynb>) | `QLabel` + `QFont` — placing and styling text on a window |
-| 05 | [`05_PyQt5 images 📷 in python.ipynb`](<05_PyQt5 images 📷 in python.ipynb>) | `QPixmap` — rendering images inside a `QLabel` |
-| 06 | [`06_PyQt5 layout managers 🧲 in python.ipynb`](<06_PyQt5 layout managers 🧲 in python.ipynb>) | `QGridLayout`, `QVBoxLayout`, `QHBoxLayout` — arranging widgets responsively |
-| 07 | [`07_PyQt5 buttons 🛎️ in python.ipynb`](<07_PyQt5 buttons 🛎️ in python.ipynb>) | `QPushButton` wired to a click handler that toggles UI state |
-| 08 | [`08_PyQt5 checkboxes ✅ in python.ipynb`](<08_PyQt5 checkboxes ✅ in python.ipynb>) | `QCheckBox` and reading its checked state |
-| 09 | [`09_PyQt5 radio buttons 🔘 in python.ipynb`](<09_PyQt5 radio buttons 🔘 in python.ipynb>) | `QRadioButton` grouped with `QButtonGroup` inside a `QGroupBox` — a payment/delivery selector UI |
-| 10 | [`10_PyQt5 line edits 💬 in python.ipynb`](<10_PyQt5 line edits 💬 in python.ipynb>) | `QLineEdit` text input paired with a submit `QPushButton` |
-| 11 | [`11_PyQt5 CSS styles 🎨 in python.ipynb`](<11_PyQt5 CSS styles 🎨 in python.ipynb>) | `setStyleSheet()` — Qt's CSS-like syntax for custom-styled buttons |
-| ⭐ | [`digital clock program 🕒.ipynb`](<⭐ digital clock program 🕒 in python.ipynb>) | 🏆 **Project** — a neon-style digital clock, `QTimer` + custom `.ttf` font |
-| ⭐ | [`stopwatch program ⏱.ipynb`](<⭐ stopwatch program ⏱ in python.ipynb>) | 🏆 **Project** — a working stopwatch with start / stop / reset and centisecond precision |
-| ⭐ | [`weather API app ☀️.ipynb`](<⭐ weather API app ☀️ in python.ipynb>) | 🏆 **Project** — live weather lookup by city name, threaded so the UI never freezes |
+| 01 | [`01_DayOfCode.ipynb`](./01_DayOfCode.ipynb) | `print()`, variables, f-strings, `type()`, type casting basics |
+| 02 | [`02Inputs.ipynb`](./02Inputs.ipynb) | `input()`, casting user input, a small rectangle-area calculator |
+| 03 | [`03AritmeticOprt.ipynb`](./03AritmeticOprt.ipynb) | Arithmetic operators, `round()` `abs()` `pow()` `max()` `min()`, the `math` module, circle circumference/area, right-triangle hypotenuse |
+| 04 | [`04_If_state.ipynb`](./04_If_state.ipynb) | `if` / `else` branching with real conditions (age check, y/n prompts, empty-string checks) |
+| 05 | [`05_Calculator_...Program.ipynb`](./05_Calculator_Weight_Temprature_conversion_Program.ipynb) | 🛠️ **Mini-project** — basic calculator, weight converter (kg ⇄ lbs), temperature converter (°C ⇄ °F) |
+| 06 | [`06_Logical_Operators...ipynb`](./06_Logical_Operators_conditional_expressions.ipynb) | Logical operators `and` / `or` in compound conditional expressions |
+| 07 | [`07_Indexing_methods.ipynb`](./07_Indexing_methods.ipynb) | String slicing `[start:stop:step]`, `.find()` `.rfind()` `.upper()` `.lower()` `.isdigit()` `.isalpha()` `.count()` `.replace()`, username-validation task |
+| 08 | [`08_format_spacifiers.ipynb`](./08_format_spacifiers.ipynb) | f-string format specifiers — decimal precision, padding, alignment (`<` `>` `^`), sign flags, thousands separators |
+| 09 | [`09_while_loop.ipynb`](./09_while_loop.ipynb) | `while` loops for input validation and sentinel-controlled menus |
+| 10 | [`10_Compund_interest_calculator.ipynb`](./10_Compund_interest_calculator.ipynb) | 🛠️ **Mini-project** — compound interest calculator, solved two ways (`while <= 0` vs. `while True` + `break`) |
+| 11 | [`11_For_Loop.ipynb`](./11_For_Loop.ipynb) | `for` loops, `range()`, `reversed()`, iterating strings, `continue` / `break` |
+| 12 | [`12_count_Down_Timer_Program.ipynb`](./12_count_Down_Timer_Program.ipynb) | 🛠️ **Mini-project** — countdown timer with live `HH:MM:SS` formatting using `time.sleep()` |
+| 13 | [`13_mandlib_game_user_inputs.ipynb`](./13_mandlib_game_user_inputs.ipynb) | 🛠️ **Mini-project** — Madlib-style story generator driven entirely by `input()` |
+| 14 | [`14_Nested_loop.ipynb`](./14_Nested_loop.ipynb) | Nested loops, and a custom rows × columns × symbol pattern printer |
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ Featured Mini-Projects
 
-Three standalone desktop apps close out the module — each one runs, not just demonstrates.
+Four small applied builds sit inside this module, each combining several fundamentals into one working program:
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🕒 Digital Clock**
-
-A live-updating clock styled like an LED display — black background, neon-green digits, custom `DS-DIGIT.TTF` font loaded via `QFontDatabase`, refreshed every second with `QTimer`.
-
-</td>
-<td width="33%" valign="top">
-
-**⏱️ Stopwatch**
-
-Start / Stop / Reset controls driving a `QTimer`-based counter, displayed to the centisecond (`00:00:00.00`) in the same neon LED style as the clock.
+**🧮 Calculator + Unit Converters**
+`05_Calculator_..._Program.ipynb`
+A single program that does arithmetic, converts weight (kg ⇄ lbs), and converts temperature (°C ⇄ °F) — all driven by `if`/`elif`/`else`.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**☀️ Weather App**
+**💰 Compound Interest Calculator**
+`10_Compund_interest_calculator.ipynb`
+Validates principal, rate, and time with `while` loops, then computes compound interest — implemented twice to compare two validation patterns.
 
-Type a city, get live conditions. No API key required — geocodes the city then fetches current weather from **Open-Meteo**, all on a background `QThread` so the interface stays responsive.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⏱️ Countdown Timer**
+`12_count_Down_Timer_Program.ipynb`
+A live terminal countdown using `time.sleep()`, formatted into a clean `HH:MM:SS` display.
+
+</td>
+<td width="50%" valign="top">
+
+**🎭 Madlib Game**
+`13_mandlib_game_user_inputs.ipynb`
+Collects adjectives, nouns, and verbs from the user and weaves them into a silly generated story.
 
 </td>
 </tr>
 </table>
-
-### How the Weather App avoids freezing the UI
-
-```python
-class WeatherWorker(QThread):
-    data_fetched   = pyqtSignal(dict)
-    error_occurred = pyqtSignal(str)
-
-    def __init__(self, city_name):
-        super().__init__()
-        self.city_name = city_name
-
-    def run(self):
-        # 1. Geocode the city name -> lat/lon (Open-Meteo, no key needed)
-        geo = requests.get(
-            f"https://geocoding-api.open-meteo.com/v1/search?name={self.city_name}"
-        ).json()
-
-        if not geo.get("results"):
-            self.error_occurred.emit("City not found.")
-            return
-
-        lat, lon = geo["results"][0]["latitude"], geo["results"][0]["longitude"]
-
-        # 2. Fetch live weather for those coordinates
-        weather = requests.get(
-            f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}"
-            f"&current=temperature_2m,relative_humidity_2m,wind_speed_10m"
-        ).json()
-
-        self.data_fetched.emit(weather["current"])   # hand results back to the UI thread
-```
-
-The GUI starts this worker on a background thread and connects to its signals — so a slow network call never locks up the window.
 
 ---
 
 ## 💡 Concept Snapshots
 
 <details>
-<summary>🧵 <strong>Multithreading</strong> — click to expand</summary>
+<summary>📦 <strong>Variables, Types & Casting</strong> — click to expand</summary>
 
 ```python
-import threading, time
+name  = "Muhammad Zafran"     # str
+age   = 21                    # int
+gpa   = 3.8                   # float
 
-def walk_dog():
-    time.sleep(8)
-    print("Finished walking the dog")
+print(type(age))              # <class 'int'>
+age   = str(age)              # cast int -> str
+gpa   = int(gpa)              # cast float -> int (truncates)
 
-def take_out_trash():
-    time.sleep(2)
-    print("Trash taken out")
-
-# Sequential: ~10 seconds total
-# Threaded: both run concurrently, ~8 seconds total
-t1 = threading.Thread(target=walk_dog)
-t2 = threading.Thread(target=take_out_trash)
-t1.start(); t2.start()
-t1.join();  t2.join()
+print(f"Hi, I'm {name} — {age} years old, GPA (as int): {gpa}")
 ```
 
 </details>
 
 <details>
-<summary>🔗 <strong>Calling a REST API</strong> — click to expand</summary>
+<summary>➗ <strong>Arithmetic & the <code>math</code> Module</strong> — click to expand</summary>
 
 ```python
-import requests
+import math
 
-def get_pokemon_info(name):
-    url = f"https://pokeapi.co/api/v2/pokemon/{name}"
-    response = requests.get(url)
+radius = 7
+print(round(math.pi, 2))                 # 3.14
+print(f"Circumference: {2 * math.pi * radius:.2f}")
+print(f"Area: {math.pi * radius ** 2:.2f}")
 
-    if response.status_code == 200:
-        return response.json()
-    print(f"Failed to retrieve data: {response.status_code}")
-
-pikachu = get_pokemon_info("pikachu")
-print(pikachu["height"], pikachu["weight"])
+a, b = 3, 4
+c = math.sqrt(a ** 2 + b ** 2)            # Pythagorean theorem
+print(f"Hypotenuse: {c}")                 # 5.0
 ```
 
 </details>
 
 <details>
-<summary>🖥️ <strong>A Minimal PyQt5 Window</strong> — click to expand</summary>
+<summary>🔍 <strong>String Indexing & Methods</strong> — click to expand</summary>
 
 ```python
-import sys
-from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel
-from PyQt5.QtGui import QFont
+credit_number = "1234-5678-9012-3456"
 
-class MainWindow(QMainWindow):
-    def __init__(self):
-        super().__init__()
-        self.setWindowTitle("My First GUI")
-        self.setGeometry(700, 300, 500, 500)
+print(credit_number[-4:])                 # "3456"
+print(credit_number[::-1])                # reversed string
+print(credit_number[1:9:2])                # step slicing
 
-        label = QLabel("Hello!", self)
-        label.setFont(QFont("Arial", 40))
-        label.setGeometry(0, 0, 500, 100)
-
-app = QApplication(sys.argv)
-window = MainWindow()
-window.show()
-sys.exit(app.exec_())
+username = "muh_zafran"
+if len(username) > 12:
+    print("Too long")
+elif not username.isalpha() and "_" not in username:
+    print("Invalid characters")
+else:
+    print(f"Welcome {username}")
 ```
 
 </details>
 
 <details>
-<summary>🎨 <strong>Widgets, Layouts & Styling</strong> — click to expand</summary>
+<summary>🎨 <strong>Format Specifiers</strong> — click to expand</summary>
 
 ```python
-from PyQt5.QtWidgets import QPushButton, QRadioButton, QButtonGroup, QVBoxLayout
+price = 3098.14159
 
-# Toggling button state
-self.button = QPushButton("Say Hello")
-self.button.clicked.connect(self.toggle_message)
+print(f"${price:.2f}")     # 2 decimal places   -> $3098.14
+print(f"${price:,.2f}")    # thousands separator -> $3,098.14
+print(f"${price:>12,.2f}") # right-aligned in a 12-char field
+print(f"{price:+.1f}")     # force sign          -> +3098.1
+```
 
-# Grouping radio buttons so only one can be selected
-self.group = QButtonGroup(self)
-for option in ["Visa", "Mastercard", "PayPal"]:
-    btn = QRadioButton(option)
-    self.group.addButton(btn)
+</details>
 
-# Qt's CSS-like styling
-self.button.setStyleSheet("""
-    QPushButton {
-        background-color: #FF512F;
-        color: white;
-        border-radius: 8px;
-        padding: 8px 16px;
-    }
-    QPushButton:hover { background-color: #F09819; }
-""")
+<details>
+<summary>🔁 <strong>Loops — While, For & Nested</strong> — click to expand</summary>
+
+```python
+# Input validation with while
+age = int(input("Enter your age: "))
+while age < 0:
+    print("Age can't be negative.")
+    age = int(input("Enter your age: "))
+
+# for + range + reversed
+for x in reversed(range(1, 11, 2)):
+    print(x, end=" ")
+
+# Nested loop — build a symbol grid
+rows, cols, symbol = 3, 5, "*"
+for r in range(rows):
+    for c in range(cols):
+        print(symbol, end="")
+    print()
 ```
 
 </details>
@@ -302,11 +261,13 @@ self.button.setStyleSheet("""
 ```
 📦 Algorithm-Arsenal/
 └── 🐍 Python By Bro Code/
-    ├── 📁 01-Python-Fundamentals/         print, loops, strings, mini-projects
-    ├── 📁 02-Data-Structures-and-Logic/   Lists, Dicts, Functions, 8 mini-games
-    ├── 📁 03-Object-Oriented-Programming/ Classes, Inheritance, Decorators, Files
-    ├── 📁 04-GUI-and-APIs/                ◄── YOU ARE HERE (14 notebooks, 3 apps)
-    └── 📁 Projects/                       Standalone write-ups of select mini-projects
+    ├── 📁 01-Python-Fundamentals/        ◄── YOU ARE HERE (14 notebooks)
+    ├── 📁 02-Data-Structures-and-Logic/  Lists, Sets, Tuples, Dicts, Functions,
+    │                                     Comprehensions, Modules, Scope + 8 games
+    ├── 📁 03-Object-Oriented-Programming/ Classes, Inheritance, Polymorphism,
+    │                                      Decorators, Files, Exceptions
+    ├── 📁 04-GUI-and-APIs/               Multithreading, REST APIs, PyQt5 GUIs
+    └── 📁 Projects/                      Standalone write-ups of the mini-projects above
 ```
 
 > The wider [**Algorithm Arsenal**](https://github.com/MuhammadZafran33/Algorithm-Arsenal) repo also holds my Data Science / ML coursework — and will soon include internship deliverables and ML/DL project work as those land.
@@ -320,16 +281,23 @@ self.button.setStyleSheet("""
 git clone https://github.com/MuhammadZafran33/Algorithm-Arsenal.git
 
 # 2. Navigate to this module
-cd "Algorithm-Arsenal/Python By Bro Code/04-GUI-and-APIs"
+cd "Algorithm-Arsenal/Python By Bro Code/01-Python-Fundamentals"
 
-# 3. Install the two new dependencies this module introduces
-pip install PyQt5 requests
-
-# 4. Launch a notebook and run all cells — GUI apps open in their own window
-jupyter notebook "⭐ weather API app ☀️ in python.ipynb"
+# 3. Launch Jupyter and open any notebook — pure stdlib, nothing to install
+jupyter notebook 01_DayOfCode.ipynb
 ```
 
-> The Digital Clock and Stopwatch notebooks load `DS-DIGIT.TTF` from this same folder — keep it alongside the notebooks when running them.
+> No `pip install` needed — every notebook in this module runs on the Python standard library alone.
+
+---
+
+## 🎓 Course & Reference Links
+
+| Resource | Why It's Here |
+|---|---|
+| 🎥 [Bro Code — Python Full Course](https://www.youtube.com/@BroCodez) | The course this whole module follows |
+| 📘 [Official Python Docs](https://docs.python.org/3/) | Ground-truth reference for every builtin used |
+| 📋 [Python Cheatsheet](https://www.pythoncheatsheet.org) | Fast syntax lookup while working through notebooks |
 
 ---
 
@@ -337,15 +305,16 @@ jupyter notebook "⭐ weather API app ☀️ in python.ipynb"
 
 ```mermaid
 flowchart LR
-    A(["✅ 04 — GUIs & APIs"]) --> B(["🏁 Bro Code Course Complete"])
-    B --> C(["🌱 Internship Projects"])
-    C --> D(["🤖 ML / DL Projects"])
+    A(["✅ 01 — Fundamentals"]) --> B(["🔜 02 — Data Structures & Logic"])
+    B --> C(["🔮 03 — OOP"])
+    C --> D(["🔮 04 — GUIs & APIs"])
+    D --> E(["🌱 Internship + ML/DL Projects"])
 
     style A fill:#00C851,color:#fff
-    style D fill:#9966FF,color:#fff
+    style E fill:#9966FF,color:#fff
 ```
 
-This module wraps the **Bro Code Python Full Course** track in the Arsenal. Next up: **internship deliverables** and **Machine Learning / Deep Learning projects** — the API-consumption and threading patterns from this module carry straight over into calling model endpoints and keeping ML-powered UIs responsive.
+Coming soon to the wider Arsenal: **internship deliverables** and **Machine Learning / Deep Learning projects**, built on this exact foundation.
 
 ---
 
@@ -365,6 +334,6 @@ Institute of Management Sciences (IM|Sciences), Peshawar, Pakistan 🇵🇰
 
 ⭐ **Star [Algorithm Arsenal](https://github.com/MuhammadZafran33/Algorithm-Arsenal)** if this helped you on your own Python journey!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3776AB,100:FFD43B&amp;height=100&amp;section=footer" />
 
 </div>
