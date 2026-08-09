@@ -257,7 +257,7 @@ Institute of Management Sciences (IM|Sciences), Peshawar, Pakistan 🇵🇰
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadZafran33&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=MuhammadZafran33&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadZafran33&amp;theme=radical&amp;hide_border=true" width="48%" alt="GitHub Streak" />
 
 <br/><br/>
