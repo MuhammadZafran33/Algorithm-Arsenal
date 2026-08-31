@@ -890,7 +890,7 @@ If you find my repositories helpful:
 
 **— Muhammad Zafran**
 
-<br/>
+<!-- <br/>
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadZafran33&style=for-the-badge&color=00d9ff&label=TOTAL+PROFILE+VISITORS"/>
 
@@ -898,7 +898,7 @@ If you find my repositories helpful:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=MuhammadZafran33/MuhammadZafran33&type=Date&theme=dark)](https://star-history.com/#MuhammadZafran33/MuhammadZafran33&Date)
 
-<br/><br/>
+<br/><br/> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%9A%A1+Keep+Learning%2C+Keep+Building%2C+Stay+Curious+%E2%9A%A1;%F0%9F%A4%96+Fundamentals+today%2C+intelligent+systems+tomorrow+%F0%9F%A4%96" alt="Footer Message" />
 
