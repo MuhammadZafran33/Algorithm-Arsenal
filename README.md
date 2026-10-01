@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Machine%20LearningMafiaas&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🤖%20AI%20Engineer%20in%20Training%20|%20Data%20Visualization%20|%20ML%2FDL%20Research%20🤖&descAlignY=55&descSize=18&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Machine%20LearningfontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🤖%20AI%20Engineer%20in%20Training%20|%20Data%20Visualization%20|%20ML%2FDL%20Research%20🤖&descAlignY=55&descSize=18&descAlign=50"/>
 
 </div>
 
