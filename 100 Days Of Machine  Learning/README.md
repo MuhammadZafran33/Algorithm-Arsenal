@@ -877,19 +877,19 @@ If you find my repositories helpful:
 
 ```
 ╔════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
+║                                                                    ║
 ║   I will build systems that inform and help, not mislead or harm.  ║
-║                                                                      ║
-║   I will ground my models in clean data and honest evaluation,      ║
-║   not in numbers that only look good on a slide.                    ║
-║                                                                      ║
-║   I will document my work so others can learn from it.              ║
-║                                                                      ║
-║   I will share what I know with my community in Bannu               ║
-║   and beyond, because knowledge multiplies when it's shared.        ║
-║                                                                      ║
-║   I am a student first, and I will stay one.                        ║
-║                                                                      ║
+║                                                                    ║
+║   I will ground my models in clean data and honest evaluation,     ║
+║   not in numbers that only look good on a slide.                   ║
+║                                                                    ║
+║   I will document my work so others can learn from it.             ║
+║                                                                    ║
+║   I will share what I know with my community in Bannu              ║
+║   and beyond, because knowledge multiplies when it's shared.       ║
+║                                                                    ║
+║   I am a student first, and I will stay one.                       ║
+║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
