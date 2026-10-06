@@ -812,7 +812,7 @@ graph TB
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║              GITHUB ANALYTICS                          ║
+║              GITHUB ANALYTICS                         ║
 ╠═══════════════════════════════════════════════════════╣
 ║ Public Repositories:      22+                          ║
 ║ Total Commits:            150+                         ║
@@ -821,7 +821,7 @@ graph TB
 ║ Following:                50+                          ║
 ║ Stars Received:           25+                          ║
 ║ Most Used Language:       C++ / Python                 ║
-║ Repositories Updated:     Regularly 🔄                 ║
+║ Repositories Updated:     Regularly 🔄                ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
