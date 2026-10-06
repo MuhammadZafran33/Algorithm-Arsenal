@@ -814,14 +814,14 @@ graph TB
 ╔═══════════════════════════════════════════════════════╗
 ║              GITHUB ANALYTICS                         ║
 ╠═══════════════════════════════════════════════════════╣
-║ Public Repositories:      22+                          ║
-║ Total Commits:            150+                         ║
-║ Code Contributions:       2,500+ lines                 ║
-║ Followers:                21+                          ║
-║ Following:                50+                          ║
-║ Stars Received:           25+                          ║
-║ Most Used Language:       C++ / Python                 ║
-║ Repositories Updated:     Regularly 🔄                ║
+║ Public Repositories:      22+                         ║
+║ Total Commits:            150+                        ║
+║ Code Contributions:       2,500+ lines                ║
+║ Followers:                21+                         ║
+║ Following:                50+                         ║
+║ Stars Received:           25+                         ║
+║ Most Used Language:       C++ / Python                ║
+║ Repositories Updated:     Regularly 🔄               ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
