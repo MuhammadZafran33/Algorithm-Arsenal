@@ -578,13 +578,13 @@ graph LR
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   INPUT:  Uploaded video of a street conflict                 ║
-║   ├─ Detect: wounded person   (color-coded overlay)           ║
-║   ├─ Detect: attacker          (color-coded overlay)          ║
-║   ├─ Detect: weapon / knife    (color-coded overlay)          ║
-║   └─ Trigger: emergency-services alert, in real time          ║
-║                                                                 ║
-║   Scope: $10,000+ end-to-end computer vision & deep learning  ║
+║   INPUT:  Uploaded video of a street conflict                ║
+║   ├─ Detect: wounded person   (color-coded overlay)          ║
+║   ├─ Detect: attacker          (color-coded overlay)         ║
+║   ├─ Detect: weapon / knife    (color-coded overlay)         ║
+║   └─ Trigger: emergency-services alert, in real time         ║
+║                                                              ║
+║   Scope: $10,000+ end-to-end computer vision & deep learning ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
