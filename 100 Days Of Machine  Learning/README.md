@@ -125,9 +125,9 @@ await zafran.buildIntelligentSystems();
 
 | Language | Fluency Level | Proficiency |
 |:---:|:---:|:---:|
-| 🇵🇰 **Urdu** | ▰▰▰▰▰▰▰▰▰▰ | *(fill in)* |
-| 🇬🇧 **English** | ▰▰▰▰▰▰▰▰▱▱ | *(fill in)* |
-| **Pashto** | ▰▰▰▰▰▰▱▱▱▱ | *(fill in)* |
+| 🇵🇰 **Urdu** | ▰▰▰▰▰▰▰▰▰▰▱ | *(fill in)* |
+| 🇬🇧 **English** | ▰▰▰▰▰▰▰▰▰▱ | *(fill in)* |
+| **Pashto** | ▰▰▰▰▰▰▰▰▰▰ | *(fill in)* |
 
 </div>
 
