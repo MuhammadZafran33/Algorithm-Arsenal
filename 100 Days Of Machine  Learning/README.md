@@ -352,12 +352,12 @@ await zafran.buildIntelligentSystems();
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║  🎓  Certified: Excelerate Data Visualization Traineeship      ║
-║  🎓  Certified: Arch Technologies ML Internship                ║
-║  🧬  KP-DengueAI: LightGBM model — 96.33% accuracy             ║
-║  💼  4 SEO-optimized, active Fiverr gigs                       ║
-║  🚀  Two deployed Streamlit apps in production                 ║
-║  📢  100+ students helped through knowledge sharing            ║
+║  🎓  Certified: Excelerate Data Visualization Traineeship     ║
+║  🎓  Certified: Arch Technologies ML Internship               ║
+║  🧬  KP-DengueAI: LightGBM model — 96.33% accuracy            ║
+║  💼  4 SEO-optimized, active Fiverr gigs                      ║
+║  🚀  Two deployed Streamlit apps in production                ║
+║  📢  100+ students helped through knowledge sharing           ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
