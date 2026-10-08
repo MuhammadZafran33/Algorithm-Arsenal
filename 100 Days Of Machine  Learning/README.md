@@ -710,15 +710,15 @@ graph TB
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
-║                    🚀 GOALS ROADMAP                              ║
+║                    🚀 GOALS ROADMAP                               ║
 ╠═══════════════════════════════════════════════════════════════════╣
 ║                                                                   ║
 ║  Research                                                         ║
-║  ├─ 🧬 Finish EDA on the full translated SINAN dataset            ║
+║  ├─ 🧬 Finish EDA on the full translated SINAN dataset           ║
 ║  ├─ 📄 Submit the KP-DengueAI manuscript for journal review       ║
 ║  └─ 🔬 Deepen CNN-LSTM hybrid architecture work                   ║
-║                                                                    ║
-║  Applied / Client Work                                             ║
+║                                                                   ║
+║  Applied / Client Work                                            ║
 ║  ├─ 🚨 Deliver the street-conflict computer-vision project        ║
 ║  ├─ 💼 Grow the Fiverr gig portfolio                              ║
 ║  └─ 📊 Complete remaining Excelerate deliverables                 ║
@@ -727,10 +727,10 @@ graph TB
 ║  ├─ 🧠 Go deeper into LLMs & Agentic AI                           ║
 ║  ├─ 👁️ Build stronger Computer Vision fundamentals                ║
 ║  └─ 🤖 Continue Karpathy's nn-zero-to-hero series                 ║
-║                                                                    ║
-║  Community                                                         ║
-║  ├─ 📢 Keep promoting AI education in Bannu                       ║
-║  └─ 🌿 Stay active with PMGYM & Qalb Welfare Foundation           ║
+║                                                                   ║
+║  Community                                                        ║
+║  ├─ 📢 Keep promoting AI education in Bannu                      ║
+║  └─ 🌿 Stay active with PMGYM & Qalb Welfare Foundation          ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
